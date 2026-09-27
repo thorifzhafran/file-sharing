@@ -7,6 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
+**Try here 👉 [Webinesia - Unlimited Free Real Time File Sharing](https://webinesia.com/file-sharing) App**
 A lightweight, serverless, lightning-fast web application that enables direct browser-to-browser (P2P) file sharing and real-time clipboard text synchronization using WebRTC. 
 
 ---
